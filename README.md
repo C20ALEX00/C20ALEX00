@@ -115,11 +115,6 @@
 ---
 
 ### Estadísticas de GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=c20alex00&show_icons=true&locale=es&layout=compact" alt="Top Lenguajes" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=c20alex00&show_icons=true&locale=es" alt="Estadísticas GitHub" />
 </p>
