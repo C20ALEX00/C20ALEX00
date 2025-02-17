@@ -14,7 +14,7 @@
   [Repositorio en GitHub](https://github.com/4GeeksAcademy/ProyectoAplicacionGestionFinanciera)
 
 ### 🌱 Aprendiendo actualmente
-- **ReactJS**
+- **ReactJS Avanzado**
 
 ### 👯 Colaboraciones
 - Busco colaborar en:  
