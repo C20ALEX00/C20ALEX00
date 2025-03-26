@@ -14,7 +14,7 @@
   [Repositorio en GitHub](https://github.com/4GeeksAcademy/ProyectoAplicacionGestionFinanciera)
 
 ### 🌱 Aprendiendo actualmente
-- **ReactJS Avanzado**
+- **ReactJS Avanzado, TypeScript y programación orientada a objetos**
 
 ### 👯 Colaboraciones
 - Busco colaborar en:  
