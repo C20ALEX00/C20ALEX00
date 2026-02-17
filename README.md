@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Alejandro</h1>
-<h3 align="center">Un apasionado desarrollador frontend de España</h3>
+<h3 align="center">Un apasionado desarrollador Backend de España</h3>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
