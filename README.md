@@ -1,76 +1,56 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=header&text=Alejandro%20Cherrez&fontSize=42&fontAlign=50&fontAlignY=38&color=0:111827,100:1f2937&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=Alejandro%20Cherrez&fontSize=40&fontAlign=50&fontAlignY=40&color=0:1f2937,100:374151&fontColor=ffffff" width="100%" />
 </p>
 
-<h3 align="center">Backend Developer — Django | DRF | Production Systems</h3>
+<h3 align="center">Backend Developer | Django & Django REST Framework</h3>
 
 <p align="center">
-Building backend systems where business rules are explicit, architecture is intentional, and code is designed to scale.
+Designing maintainable APIs with clean architecture, strong validation, and production-focused thinking.
 </p>
 
 ---
 
-## 🧭 Professional Profile
+## 🧭 Professional Focus
 
-Backend Developer with production experience contributing to a real SaaS environment at **Brytspace**.
+Backend Developer with hands-on experience contributing to a real production environment at **Brytspace**.
 
-My focus is not just building endpoints —  
-it is designing backend systems that:
+I focus on building backend systems that are:
 
-- Make business logic explicit  
-- Separate concerns correctly  
-- Remain testable under growth  
-- Avoid hidden coupling  
-- Scale without collapsing into technical debt  
+- Predictable  
+- Testable  
+- Maintainable  
+- Explicit in their business logic  
 
-I work primarily with Django and Django REST Framework, applying service-layer patterns, structured validation, and production-oriented thinking.
+My work is centered around structured REST API development using Django and DRF, applying clear separation of responsibilities and strong testing practices.
 
 ---
 
-## 🏗 Production Experience — Brytspace
+## 🏗 Production Experience (Brytspace)
 
-At Brytspace, I contributed to a live backend used in production.
+- Designed and maintained REST APIs using Django & DRF  
+- Refactored tightly coupled logic into a dedicated **Services Layer**  
+- Implemented business rules through serializer validations and service logic  
+- Wrote unit and integration tests (services, serializers, views)  
+- Improved performance by fixing N+1 queries and optimizing querysets  
+- Worked with structured Pull Request workflows and code reviews  
+- Monitored production errors using **Sentry**  
+- Collaborated with frontend to deliver end-to-end features  
 
-My responsibilities included:
-
-- Designing and maintaining REST APIs with Django & DRF  
-- Refactoring tightly coupled views into a structured **Service Layer**  
-- Moving business rules out of views into serializers and services  
-- Writing unit and integration tests for services, serializers and views  
-- Detecting and fixing performance issues (e.g. N+1 query problems)  
-- Optimizing querysets using `select_related` and `prefetch_related`  
-- Reviewing and structuring Pull Requests  
-- Monitoring and debugging production errors with **Sentry**  
-- Collaborating with frontend to deliver complete feature pipelines  
-
-I approach backend development as system design, not just feature implementation.
+I don’t just implement endpoints — I think about where logic belongs and how it scales.
 
 ---
 
-## 🧠 How I Think About Backend Architecture
+## 🛠 How I Approach Backend Development
 
-When implementing a feature, I deliberately:
+When implementing a feature, I typically:
 
-1. Identify and isolate the business rule  
-2. Decide where that rule belongs (model vs serializer vs service)  
-3. Ensure side effects are controlled and explicit  
-4. Write or adapt tests before expanding complexity  
-5. Evaluate performance and query behavior  
-6. Refactor for clarity before merging  
+1. Clarify business rules first  
+2. Decide where logic should live (model, serializer, service)  
+3. Write or update tests  
+4. Refactor for clarity and maintainability  
+5. Review performance implications  
 
-I optimize for long-term maintainability over short-term speed.
-
----
-
-## ⚙️ Technical Strengths
-
-- REST API design with clear resource boundaries  
-- Business logic isolation using service-layer patterns  
-- Validation strategy design in serializers  
-- Query optimization and ORM performance awareness  
-- Writing testable, deterministic code  
-- Refactoring legacy code without breaking behavior  
-- Production debugging and error tracing  
+Structure over shortcuts.
 
 ---
 
@@ -79,14 +59,14 @@ I optimize for long-term maintainability over short-term speed.
 ### Backend
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django REST Framework-ff1709?style=flat-square&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white)
 
 ### Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-### Testing & Quality
+### Testing
 ![unittest](https://img.shields.io/badge/unittest-grey?style=flat-square)
-![APIClient](https://img.shields.io/badge/API Testing-grey?style=flat-square)
+![APIClient](https://img.shields.io/badge/APIClient-grey?style=flat-square)
 ![Mocking](https://img.shields.io/badge/Mocking-grey?style=flat-square)
 
 ### Tools & Workflow
@@ -97,17 +77,28 @@ I optimize for long-term maintainability over short-term speed.
 
 ---
 
-## 📈 Current Technical Focus
+## 🧠 Engineering Principles
 
-I am actively deepening my understanding of:
+Good backend systems should:
 
-- Django internals and request lifecycle  
-- Scalable service-oriented backend patterns  
-- Query planning and database performance  
-- Authentication and secure flows  
-- Designing smaller, composable services  
+- Keep business rules explicit  
+- Separate responsibilities clearly  
+- Be easy to test  
+- Avoid hidden side effects  
+- Fail clearly instead of silently  
+- Scale without becoming unmaintainable  
 
-The goal: move from “backend developer” to “backend systems engineer”.
+Clean structure beats clever code.
+
+---
+
+## 🚀 Currently Improving
+
+- Advanced Django internals  
+- Scalable backend architecture  
+- Performance optimization patterns  
+- Secure authentication flows  
+- Writing smaller and more focused services  
 
 ---
 
@@ -130,5 +121,5 @@ The goal: move from “backend developer” to “backend systems engineer”.
 
 ---
 
-> Backend systems are easy to build.  
-> Robust backend systems are engineered.
+> Backend development is not about writing more code.  
+> It’s about writing code that survives growth.
