@@ -2,90 +2,100 @@
 <h3 align="center">Backend Developer | Django & Django REST Framework</h3>
 
 <p align="center">
-Building maintainable APIs with clean architecture and production-focused thinking.
+Designing maintainable APIs with clean architecture, strong validation, and production-focused thinking.
 </p>
 
 ---
 
 ## 🧭 Professional Focus
 
-Backend developer with experience contributing to a production environment at **Brytspace**.
+Backend Developer with hands-on experience contributing to a real production environment at **Brytspace**.
 
-My work centers around designing REST APIs that are structured, testable, and aligned with real business logic — not just functional endpoints.
+I focus on building backend systems that are:
 
-I focus on:
-- Clear separation of responsibilities
-- Explicit business rule implementation
-- Strong validation at serializer level
-- Service-layer architecture
-- Writing testable and maintainable backend code
+- Predictable  
+- Testable  
+- Maintainable  
+- Explicit in their business logic  
 
----
-
-## 🏗 Production Experience
-
-At Brytspace, I have worked on:
-
-- Designing and maintaining REST APIs using Django & DRF
-- Refactoring tightly coupled logic into a structured Services Layer
-- Implementing complex business rules in a maintainable way
-- Writing unit and integration tests (services, serializers, views)
-- Improving performance by fixing N+1 queries and optimizing querysets
-- Working with Pull Requests and structured code reviews
-- Monitoring runtime errors using Sentry
-- Collaborating with frontend to deliver end-to-end features
+My work is centered around structured REST API development using Django and DRF, applying clear separation of responsibilities and strong testing practices.
 
 ---
 
-## ⚙️ Technical Stack
+## 🏗 Production Experience (Brytspace)
+
+- Designed and maintained REST APIs using Django & DRF  
+- Refactored tightly coupled logic into a dedicated **Services Layer**  
+- Implemented business rules through serializer validations and service logic  
+- Wrote unit and integration tests (services, serializers, views)  
+- Improved performance by fixing N+1 queries and optimizing querysets  
+- Worked with structured Pull Request workflows and code reviews  
+- Monitored production errors using **Sentry**  
+- Collaborated with frontend to deliver end-to-end features  
+
+I don’t just implement endpoints — I think about where logic belongs and how it scales.
+
+---
+
+## 🛠 How I Approach Backend Development
+
+When implementing a feature, I typically:
+
+1. Clarify business rules first  
+2. Decide where logic should live (model, serializer, service)  
+3. Write or update tests  
+4. Refactor for clarity and maintainability  
+5. Review performance implications  
+
+Structure over shortcuts.
+
+---
+
+## 🧰 Tech Stack
 
 ### Backend
-Python · Django · Django REST Framework · REST API Design · Services Layer Pattern  
-
-### Testing
-unittest · APIClient · Mocking · Unit & Integration Testing  
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white)
 
 ### Database
-PostgreSQL · Relational Modeling · Query Optimization (`select_related`, `prefetch_related`)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-### Workflow & Tools
-Git (PR workflow) · Docker · Postman · Sentry  
+### Testing
+![unittest](https://img.shields.io/badge/unittest-grey?style=flat-square)
+![APIClient](https://img.shields.io/badge/APIClient-grey?style=flat-square)
+![Mocking](https://img.shields.io/badge/Mocking-grey?style=flat-square)
+
+### Tools & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
 
 ---
 
-## 🧠 Engineering Philosophy
+## 🧠 Engineering Principles
 
 Good backend systems should:
 
-- Make business rules explicit  
+- Keep business rules explicit  
+- Separate responsibilities clearly  
 - Be easy to test  
 - Avoid hidden side effects  
-- Fail clearly  
+- Fail clearly instead of silently  
 - Scale without becoming unmaintainable  
 
-Structure over shortcuts.
+Clean structure beats clever code.
 
 ---
 
 ## 🚀 Currently Improving
 
 - Advanced Django internals  
-- Performance optimization strategies  
-- Designing secure authentication flows  
-- Writing smaller, more focused services  
-
----
-
-## 📌 Selected Technical Initiatives
-
-### Architecture Refactor
-Moved business logic from views into dedicated services to improve separation of concerns and test coverage.
-
-### Performance Improvements
-Detected and resolved inefficient queries and N+1 issues in API endpoints.
-
-### Password Recovery Flow (Design Phase)
-Designing a secure password reset pipeline with token validation and backend-controlled flow.
+- Scalable backend architecture  
+- Performance optimization patterns  
+- Secure authentication flows  
+- Writing smaller and more focused services  
 
 ---
 
@@ -95,9 +105,18 @@ Designing a secure password reset pipeline with token validation and backend-con
   <img src="https://github-readme-stats.vercel.app/api?username=C20ALEX00&show_icons=true&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C20ALEX00&layout=compact&hide_border=true" />
+</p>
+
 ---
 
 ## 📫 Connect
 
-- 💼 LinkedIn: https://linkedin.com/in/alejandro-cherrez
-- 📧 Email: c20alex00@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/alejandro-cherrez  
+- 📧 Email: c20alex00@gmail.com  
+
+---
+
+> Backend development is not about writing more code.  
+> It’s about writing code that survives growth.
