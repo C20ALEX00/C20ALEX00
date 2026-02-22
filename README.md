@@ -1,4 +1,7 @@
-<h1 align="center">Alejandro Cherrez</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=Alejandro%20Cherrez&fontSize=40&fontAlign=50&fontAlignY=40&color=0:1f2937,100:374151&fontColor=ffffff" width="100%" />
+</p>
+
 <h3 align="center">Backend Developer | Django & Django REST Framework</h3>
 
 <p align="center">
@@ -99,8 +102,15 @@ Clean structure beats clever code.
 
 ---
 
-### Estadísticas de GitHub 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=c20alex00&show_icons=true&locale=es" alt="Estadísticas GitHub" /> </p>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=C20ALEX00&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=C20ALEX00&theme=default" />
+</p>
 
 ---
 
