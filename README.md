@@ -117,10 +117,6 @@ Goal: **Backend Systems Engineer** — building robust, maintainable production 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=C20ALEX00&theme=default" />
 </p>
 
-<p align="center">
-  ![Brytspace 2025 Commits](https://img.shields.io/badge/2025_Commits-350-blue)
-</p>
-
 > *Note: The badge above is static. You can adjust the commit count manually to reflect your activity in 2025.*
 
 ## 📫 Connect
