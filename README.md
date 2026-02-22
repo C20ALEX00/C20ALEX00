@@ -110,20 +110,26 @@ Goal: **Backend Systems Engineer** — building robust, maintainable production 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=C20ALEX00&show_icons=true&theme=default&count_private=true" />
+  <!-- Badge de actividad mensual de commits -->
+  ![GitHub Commits](https://img.shields.io/github/commit-activity/m/C20ALEX00?label=Monthly%20Commits&color=blue)
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C20ALEX00&layout=compact&theme=default" />
+  <!-- Gráfico visual de contribuciones (Heatmap) -->
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=C20ALEX00&theme=github)
 </p>
 
 <p align="center">
+  <!-- Lenguajes más usados en repos -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C20ALEX00&layout=compact&theme=default" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <!-- Badge histórico manual (opcional, ejemplo 2025 en Brytspace) -->
   ![Brytspace 2025 Commits](https://img.shields.io/badge/2025_Commits-350-blue)
 </p>
 
-> *Note: The badge above is static. You can ajustar the commit count manually to reflejar tu actividad de 2025.*
-
----
+> *Note: The heatmap and badges above update automatically to reflect your ongoing GitHub activity.*
 
 ## 📫 Connect
 
