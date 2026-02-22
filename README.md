@@ -1,120 +1,103 @@
-<h1 align="center">Hola 👋, soy Alejandro</h1>
-<h3 align="center">Un apasionado desarrollador Backend de España</h3>
+<h1 align="center">Alejandro Cherrez</h1>
+<h3 align="center">Backend Developer | Django & Django REST Framework</h3>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=c20alex00" alt="c20alex00" />
-  </a>
+Building maintainable APIs with clean architecture and production-focused thinking.
 </p>
 
 ---
 
-### 🔭 Proyectos en los que trabajo
-- **SafeHeaven**:  
-  [Repositorio en GitHub](https://github.com/4GeeksAcademy/ProyectoAplicacionGestionFinanciera)
+## 🧭 Professional Focus
 
-### 🌱 Aprendiendo actualmente
-- **ReactJS Avanzado, TypeScript y programación orientada a objetos**
+Backend developer with experience contributing to a production environment at **Brytspace**.
 
-### 👯 Colaboraciones
-- Busco colaborar en:  
-  [BlogStarWars](https://github.com/4GeeksAcademy/Proyecto10_BlogStarWars)
-- Busco ayuda con:  
-  [Modelo de Datos Blog Star Wars](https://github.com/4GeeksAcademy/Proyecto_starwars_data)
+My work centers around designing REST APIs that are structured, testable, and aligned with real business logic — not just functional endpoints.
 
-### 👨‍💻 Mis proyectos
-- Encuéntralos en mi [GitHub](https://github.com/C20ALEX00)
-
-### 💬 Sobre mí
-- Pregúntame sobre: **ReactJS, Bootstrap, APIs**
-- Cómo contactarme: **c20alex00@gmail.com**
-- Dato curioso: **Soy amable y me gusta cooperar en equipo y descubrir nuevas formas de mejorar**
+I focus on:
+- Clear separation of responsibilities
+- Explicit business rule implementation
+- Strong validation at serializer level
+- Service-layer architecture
+- Writing testable and maintainable backend code
 
 ---
 
-### Conéctate conmigo
-<p align="left">
-  <a href="https://linkedin.com/in/alejandro-cherrez" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alejandro Cherrez" height="30" width="40" />
-  </a>
-</p>
+## 🏗 Production Experience
+
+At Brytspace, I have worked on:
+
+- Designing and maintaining REST APIs using Django & DRF
+- Refactoring tightly coupled logic into a structured Services Layer
+- Implementing complex business rules in a maintainable way
+- Writing unit and integration tests (services, serializers, views)
+- Improving performance by fixing N+1 queries and optimizing querysets
+- Working with Pull Requests and structured code reviews
+- Monitoring runtime errors using Sentry
+- Collaborating with frontend to deliver end-to-end features
 
 ---
 
-### Idiomas y Herramientas
+## ⚙️ Technical Stack
 
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://canvasjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="CanvasJS" width="40" height="40"/>
-  </a>
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
-  </a>
-  <a href="https://graphql.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/es/productos/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/es-ES/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/es" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-</p>
+### Backend
+Python · Django · Django REST Framework · REST API Design · Services Layer Pattern  
+
+### Testing
+unittest · APIClient · Mocking · Unit & Integration Testing  
+
+### Database
+PostgreSQL · Relational Modeling · Query Optimization (`select_related`, `prefetch_related`)  
+
+### Workflow & Tools
+Git (PR workflow) · Docker · Postman · Sentry  
 
 ---
 
-### Estadísticas de GitHub
+## 🧠 Engineering Philosophy
+
+Good backend systems should:
+
+- Make business rules explicit  
+- Be easy to test  
+- Avoid hidden side effects  
+- Fail clearly  
+- Scale without becoming unmaintainable  
+
+Structure over shortcuts.
+
+---
+
+## 🚀 Currently Improving
+
+- Advanced Django internals  
+- Performance optimization strategies  
+- Designing secure authentication flows  
+- Writing smaller, more focused services  
+
+---
+
+## 📌 Selected Technical Initiatives
+
+### Architecture Refactor
+Moved business logic from views into dedicated services to improve separation of concerns and test coverage.
+
+### Performance Improvements
+Detected and resolved inefficient queries and N+1 issues in API endpoints.
+
+### Password Recovery Flow (Design Phase)
+Designing a secure password reset pipeline with token validation and backend-controlled flow.
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=c20alex00&show_icons=true&locale=es" alt="Estadísticas GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=C20ALEX00&show_icons=true&hide_border=true" />
 </p>
+
+---
+
+## 📫 Connect
+
+- 💼 LinkedIn: https://linkedin.com/in/alejandro-cherrez
+- 📧 Email: c20alex00@gmail.com
