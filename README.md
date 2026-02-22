@@ -12,10 +12,9 @@ Building backend systems where business rules are explicit, architecture is inte
 
 ## 🧭 Professional Profile
 
-Backend Developer with production experience contributing to a real SaaS environment at **Brytspace**.
+Backend Developer with production experience in **Brytspace**, contributing to a live SaaS backend environment.
 
-My focus is not just building endpoints —  
-it is designing backend systems that:
+I focus on building systems that:
 
 - Make business logic explicit  
 - Separate concerns correctly  
@@ -23,42 +22,40 @@ it is designing backend systems that:
 - Avoid hidden coupling  
 - Scale without collapsing into technical debt  
 
-I work primarily with Django and Django REST Framework, applying service-layer patterns, structured validation, and production-oriented thinking.
+Primarily working with Django & DRF, I apply service-layer patterns, structured validation, and production-oriented thinking.
 
 ---
 
 ## 🏗 Production Experience — Brytspace
 
-At Brytspace, I contributed to a live backend used in production.
-
-My responsibilities included:
+At Brytspace, my responsibilities included:
 
 - Designing and maintaining REST APIs with Django & DRF  
 - Refactoring tightly coupled views into a structured **Service Layer**  
 - Moving business rules out of views into serializers and services  
-- Writing unit and integration tests for services, serializers and views  
-- Detecting and fixing performance issues (e.g. N+1 query problems)  
-- Optimizing querysets using `select_related` and `prefetch_related`  
+- Writing unit and integration tests for services, serializers, and views  
+- Detecting and fixing performance issues (N+1 queries, heavy ORM operations)  
+- Optimizing querysets using `select_related` & `prefetch_related`  
 - Reviewing and structuring Pull Requests  
 - Monitoring and debugging production errors with **Sentry**  
-- Collaborating with frontend to deliver complete feature pipelines  
+- Collaborating with frontend to deliver full end-to-end features  
 
-I approach backend development as system design, not just feature implementation.
+I treat backend development as **system design**, not just feature implementation.
 
 ---
 
-## 🧠 How I Think About Backend Architecture
+## 🧠 How I Approach Backend Architecture
 
-When implementing a feature, I deliberately:
+When implementing a feature, I:
 
-1. Identify and isolate the business rule  
-2. Decide where that rule belongs (model vs serializer vs service)  
+1. Identify and isolate business rules  
+2. Decide where that rule belongs (model, serializer, service)  
 3. Ensure side effects are controlled and explicit  
 4. Write or adapt tests before expanding complexity  
 5. Evaluate performance and query behavior  
 6. Refactor for clarity before merging  
 
-I optimize for long-term maintainability over short-term speed.
+I optimize for **long-term maintainability** over short-term speed.
 
 ---
 
@@ -69,8 +66,9 @@ I optimize for long-term maintainability over short-term speed.
 - Validation strategy design in serializers  
 - Query optimization and ORM performance awareness  
 - Writing testable, deterministic code  
-- Refactoring legacy code without breaking behavior  
+- Refactoring legacy code safely  
 - Production debugging and error tracing  
+- Working efficiently in a collaborative environment
 
 ---
 
@@ -79,14 +77,14 @@ I optimize for long-term maintainability over short-term speed.
 ### Backend
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django REST Framework-ff1709?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django%20REST%20Framework-ff1709?style=flat-square&logoColor=white)
 
 ### Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ### Testing & Quality
 ![unittest](https://img.shields.io/badge/unittest-grey?style=flat-square)
-![APIClient](https://img.shields.io/badge/API Testing-grey?style=flat-square)
+![API Testing](https://img.shields.io/badge/API%20Testing-grey?style=flat-square)
 ![Mocking](https://img.shields.io/badge/Mocking-grey?style=flat-square)
 
 ### Tools & Workflow
@@ -97,35 +95,39 @@ I optimize for long-term maintainability over short-term speed.
 
 ---
 
-## 📈 Current Technical Focus
+## 📈 Current Focus
 
-I am actively deepening my understanding of:
-
-- Django internals and request lifecycle  
+- Django internals & request lifecycle  
 - Scalable service-oriented backend patterns  
-- Query planning and database performance  
-- Authentication and secure flows  
+- Query planning & database performance  
+- Authentication & secure flows  
 - Designing smaller, composable services  
 
-The goal: move from “backend developer” to “backend systems engineer”.
+Goal: **Backend Systems Engineer** — building robust, maintainable production backends.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=C20ALEX00&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=C20ALEX00&show_icons=true&theme=default&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=C20ALEX00&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C20ALEX00&layout=compact&theme=default" />
 </p>
+
+<p align="center">
+  ![Brytspace 2025 Commits](https://img.shields.io/badge/2025_Commits-350-blue)
+</p>
+
+> *Note: The badge above is static. You can ajustar the commit count manually to reflejar tu actividad de 2025.*
 
 ---
 
 ## 📫 Connect
 
-- 💼 LinkedIn: https://linkedin.com/in/alejandro-cherrez  
+- 💼 LinkedIn: [https://linkedin.com/in/alejandro-cherrez](https://linkedin.com/in/alejandro-cherrez)  
 - 📧 Email: c20alex00@gmail.com  
 
 ---
